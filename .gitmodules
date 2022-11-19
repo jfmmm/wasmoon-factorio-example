@@ -1,0 +1,3 @@
+[submodule "factorio"]
+	path = factorio
+	url = https://github.com/wube/factorio-data.git

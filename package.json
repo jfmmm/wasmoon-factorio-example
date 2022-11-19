@@ -1,0 +1,25 @@
+{
+  "name": "wasmoon-factorio-example",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Example of loading Factorio lua data file with wasmoon to debug an issue",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node index.mjs",
+    "watch": "npx nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jfmmm/wasmoon-factorio-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jfmmm/wasmoon-factorio-example/issues"
+  },
+  "homepage": "https://github.com/jfmmm/wasmoon-factorio-example#readme",
+  "dependencies": {
+    "globby": "^13.1.2",
+    "wasmoon": "^1.14.1"
+  }
+}
